@@ -32,6 +32,19 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Fortran Free Form source file
+*.f03 linguist-detectable=true
+*.f03 linguist-documentation=false
+*.f03 linguist-language=Fortran-Free-Form
+*.F03 linguist-detectable=true
+*.F03 linguist-documentation=false
+*.F03 linguist-language=Fortran-Free-Form
+*.f90 linguist-detectable=true
+*.f90 linguist-documentation=false
+*.f90 linguist-language=Fortran-Free-Form
+*.F90 linguist-detectable=true
+*.F90 linguist-documentation=false
+*.F90 linguist-language=Fortran-Free-Form
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +174,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2025, Saturday, August 16th at 11:03 pm PST)
+# Line count (including blank lines and compiler line): 187
+
 # End of script
